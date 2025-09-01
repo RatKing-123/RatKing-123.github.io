@@ -26,4 +26,4 @@ David can operate a number of different computer controlled (CNC) fabrication to
 
 
 
-<img src="assets/img/OliviaHeadshot.jpeg" alt="Olivia Omas" style="width:200px;"/>
+<img src="assets/img/IMG_5526.jpeg" alt="Olivia Omas" style="width:200px;"/>
