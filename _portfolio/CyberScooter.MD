@@ -9,10 +9,11 @@ gallery:
     image_path: /assets/img/Syringe Pump Thumbnail.png
     alt: "placeholder image 1"
   - url: /assets/img/Cyber-Scooter-2.jpg
-    image_path: assets/img/Cyber-Scooter-2.jpg
+    image_path: /assets/img/Syringe Pump Thumbnail.png
+
     alt: "placeholder image 2"
-  - url: /assets/img/Cyber-Scooter-3.jpg
-    image_path: assets/img/Cyber-Scooter-3.jpg
+  - url: /assets/img/Syringe Pump Thumbnail.png
+    image_path: /assets/img/Syringe Pump Thumbnail.png
     alt: "placeholder image 3"
 ---
 
