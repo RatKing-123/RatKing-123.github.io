@@ -2,8 +2,8 @@
 title: "Syringe Pump"
 excerpt: "This syringe pump can dispense fluid at rates between 0.1 and 10.7‬‭ mL/min"
 header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg
-  teaser: /assets/img/Cyber-Scooter-TH.jpg
+  image: /assets/img/Syringe Pump Thumbnail.png
+  teaser: /assets/img/Syringe Pump Thumbnail.png
 gallery:
   - url: /assets/img/Syringe Pump Thumbnail.png
     image_path: /assets/img/Syringe Pump Thumbnail.png
