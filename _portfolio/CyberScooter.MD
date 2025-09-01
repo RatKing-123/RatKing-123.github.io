@@ -1,6 +1,6 @@
 ---
-title: "Cyber Scooter"
-excerpt: "This custom electric vehicle can reach speeds of up 30 MPH and has a range of over 50 miles!"
+title: "Syringe Pump"
+excerpt: "This syringe pump can dispense fluid at rates between 0.1 and 10.7‬‭ mL/min"
 header:
   image: /assets/img/Cyber-Scooter-Banner.jpg
   teaser: /assets/img/Cyber-Scooter-TH.jpg
@@ -16,6 +16,9 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Up until recently I rode a Gotrax E-Scooter to work every day. The scooter retailed for $300, but it quickly paid for itself after I was able to forgo gas and a parking spot at work. However, after about a year and a half of driving the scooter daily the battery started to lose charge quickly and there were a couple other mechanical issues that forced me to stop riding the scooter. Instead of purchasing a new scooter, I decided to go the DIY route to build a one-off scooter that fits my needs.
+ This syringe‬‭ pump‬‭ is powered‬‭ by‬‭ a‬‭ motor‬ coupled‬‭ to‬‭ a‬‭ lead‬‭ screw.‬‭ Key‬‭ design‬‭ considerations‬‭ include‬‭ adaptability‬‭ to‬‭ varying‬‭ syringe‬
+‭ diameters‬‭ and‬‭ adjustable‬‭ flow‬‭ rates.‬‭ Additionally,‬‭ the‬‭ syringe‬‭ pump‬‭ incorporates‬‭ status‬‭ lights‬‭ for‬
+‭ operational‬‭ feedback,‬‭ a‬‭ latching‬‭ button‬‭ for‬‭ control,‬‭ and‬‭ a‬‭ limit‬‭ switch‬‭ to‬‭ halt‬‭ motion‬‭ when‬‭ the‬
+‭ plunger reaches its limit.
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
