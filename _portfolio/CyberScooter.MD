@@ -30,14 +30,21 @@ gallery:
 # Instructions for Operation
 
 ‭1.‬‭ Copy this [Arduino code](https://github.com/RatKing-123/RatKing-123.github.io/blob/main/Ardiuno%20Code%20for%20Syringe%20Pump?h=1) into an Arduino sketch.‬
+
 2.‬‭ Change the “volumetric_flow_rate” variable to the desired flow rate (in mL/min).‬
+
 ‭3.‬‭ Change the “total_volume” variable to the starting volume present in the syringe.‬
+
 ‭4.‬‭ Plug in the Arduino to the computer and upload the sketch.‬
-5.‬‭ Unplug the Arduino from the computer and plug in the power chord from the pump.‬
-‭ a.‬‭ The time to dispense should show on the LCD, and the LED should be yellow.‬
+
+5.‬‭ Unplug the Arduino from the computer and plug in the power chord from the pump.‬ The time to dispense should show on the LCD, and the LED should be yellow.‬
+
 6.‬‭ Press the forward and backward buttons to adjust the plunger position if necessary.‬
+
 ‭7.‬‭ Press the start button to begin dispensing.‬
+
 ‭8.‬‭ Once‬‭ dispensing‬‭ is‬‭ complete‬‭ (LED‬‭ is‬‭ red),‬‭ press‬‭ the‬‭ start‬‭ button‬‭ again‬‭ to‬‭ move‬‭ back‬‭ into‬‭ manual control mode.‬
+
 9.‬‭ Use the backward button to reset the pump to the desired position.‬
 
 # Off the Shelf and 3D Printed Parts
