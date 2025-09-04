@@ -6,7 +6,7 @@ title: "About Olivia"
 
 ## Education
 
-Olivia is currently a senior studying Earth & Environmental Sciences with minors in Digital Fabrication and Architecture at Vanderbilt University. She has gained a strong foundation in environmental science and sustainability principles through hands-on fieldwork experiences and rigorous coursework.
+Olivia is currently studying Earth & Environmental Sciences with minors in Digital Fabrication and Architecture at Vanderbilt University, expecting to graduate in spring of 2026. She has gained a strong foundation in environmental science and sustainability principles through hands-on fieldwork experiences and rigorous coursework.
 
 ## Technical Skills & Experience
 
