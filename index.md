@@ -8,10 +8,10 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Olivia is a senior at Vanderbilt University studying Earth and Environmental Sciences with minors in Digital Fabrication and Architecture. She is passionate and collaborative, with a strong foundation in environmental science and sustainability principles through hands-on fieldwork experiences and research."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
+    alt: "Well testing"
     title: "Custom CNC Milling Machine"
     excerpt: "Built for fabricating aluminum and steel parts."
   - image_path: assets/img/Plasma-Cutter-Banner.jpg
