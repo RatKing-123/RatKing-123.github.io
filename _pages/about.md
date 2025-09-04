@@ -1,29 +1,15 @@
 ---
 
-title: "About David Florian"
+title: "About Olivia"
 
 ---
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Olivia is currently a senior studying Earth & Environmental Sciences with minors in Digital Fabrication and Architecture at Vanderbilt University. She is passionate and collaborative, with a strong foundation in environmental science and sustainability principles through hands-on fieldwork experiences and rigorous coursework.
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
-* Vanderbilt University
-  * PhD Biomedical Engineering
+## Technical Skills & Experience
 
-## Technical Skills
-
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
-
-* Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
-
-
+Olivia has experience with Fusion360 and Fused Filament Fabrication (FFF). She has gained laboratory and field skills through her work as a Groundwater Technician with the Idaho Department of Water Resources and stream restoration research with Environment Canterbury.
 
 <img src="assets/img/IMG_5526.jpeg" alt="Olivia Omas" style="width:200px;"/>
