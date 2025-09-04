@@ -1,26 +1,26 @@
 ---
-title: "Example Web Page"
+title: "Summary"
 layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/img/Home-Banner-Image.jpeg
+  overlay_image: /assets/img/pencils_banner.webp
   actions:
     - label: "My Projects"
       url: "/portfolio/"
 excerpt: "Olivia is a senior at Vanderbilt University studying Earth and Environmental Sciences with minors in Digital Fabrication and Architecture. She is passionate and collaborative, with a strong foundation in environmental science and sustainability principles through hands-on fieldwork experiences and research."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "Well testing"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+  - image_path: assets/img/Clay_box.jpeg
+    alt: "Clay box"
+    title: "Ceramic box"
+    excerpt: "Fabrication of a clay box."
+  - image_path: assets/img/Fieldwork.jpeg
+    alt: "fieldwork"
+    title: "Fieldwork"
+    excerpt: "Groundwater monitoring and sample collection."
+  - image_path: assets/img/research_poster.jpeg
+    title: "Environmental Research"
+    excerpt: "Matauranga and Mainstream approaches to stream health. "
 ---
 
 {% include feature_row %}
