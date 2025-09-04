@@ -29,7 +29,7 @@ gallery:
 
 # Instructions for Operation
 
-‭ 1.‬‭ Copy this Arduino code into an Arduino sketch.‬
+‭ 1.‬‭ Copy this [Arduino code](Ardiuno Code for Syringe Pump) into an Arduino sketch.‬
 ‭ 2.‬‭ Change the “volumetric_flow_rate” variable to the desired flow rate (in mL/min).‬
 ‭ 3.‬‭ Change the “total_volume” variable to the starting volume present in the syringe.‬
 ‭ 4.‬‭ Plug in the Arduino to the computer and upload the sketch.‬
