@@ -2,8 +2,8 @@
 title: "Syringe Pump"
 excerpt: "This syringe pump can dispense fluid at rates between 0.1 and 10.7‬‭ mL/min"
 header:
-  image: /assets/img/Syringe Pump Thumbnail.png
-  teaser: /assets/img/Syringe Pump Thumbnail.png
+  image: /assets/img/enclosure.png
+  teaser: /assets/img/enclosure.png
 gallery:
   - url: /assets/img/Syringe Pump Thumbnail.png
     image_path: /assets/img/Syringe Pump Thumbnail.png
@@ -47,11 +47,32 @@ gallery:
 
 9.‬‭ Use the backward button to reset the pump to the desired position.‬
 
-# Off the Shelf and 3D Printed Parts
+# Custom 3D Printed Parts
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-‭
+| **Item**             |
+|----------------------|
+| Motor Mounting Plate |
+| Carriage             |
+| Enclosure            |
+| Lid for enclosure    |
+| End support          |
+| Syringe support      |
+
+# Off the Shelf Parts
+
+| **Item**                              | **Quantity** |
+|---------------------------------------|--------------|
+| M5x8mm bolt                           | 6            |
+| M3x6mm bolt                           | 14           |
+| M5 Tee nut                            | 4            |
+| 10mm LED                              | 1            |
+| V-slot 20x40x350mm aluminum extrusion | 1            |
+| 10mm button switch                    | 3            |
+| 8mmx200mm linear rod                  | 1            |
+| 8mm lock collar                       | 2            |
+| TR8 8x250mm lead screw                | 1            |
+| limit switch                          | 1            |
+| NEMA 17 Stepper Motor                 | 1            |
+| 8mm flexible coupler                  | 1            |
+| Arduino                               | 1            |
+| TR8x8mm nut                           | 1            |
