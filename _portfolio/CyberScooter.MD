@@ -2,16 +2,15 @@
 title: "Syringe Pump"
 excerpt: "This syringe pump can dispense fluid at rates between 0.1 and 10.7‬‭ mL/min"
 header:
-  image: /assets/img/enclosure.png
-  teaser: /assets/img/enclosure.png
+  image: /assets/img/Syringe Pump Thumbnail.png
+  teaser: /assets/img/Syringe Pump Thumbnail.png
 gallery:
-  - url: /assets/img/Syringe Pump Thumbnail.png
-    image_path: /assets/img/Syringe Pump Thumbnail.png
+  - url: /assets/img/enclosure.png
+    image_path: assets/img/enclosure.png
     alt: "placeholder image 1"
-  - url: /assets/img/Cyber-Scooter-2.jpg
-    image_path: /assets/img/Syringe Pump Thumbnail.png
-
-    alt: "placeholder image 2"
+  - url: assets/img/lid.png
+    image_path: assets/img/lid.png
+    alt: "lid"
   - url: /assets/img/Syringe Pump Thumbnail.png
     image_path: /assets/img/Syringe Pump Thumbnail.png
     alt: "placeholder image 3"
@@ -25,7 +24,7 @@ gallery:
 # CAD Model
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4e35ce33e8ec6886a?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="Dimensioned Drawings for Custom 3D Printed ." %}
 
 # Instructions for Operation
 
