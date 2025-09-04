@@ -7,7 +7,7 @@ header:
 gallery:
   - url: /assets/img/enclosure.png
     image_path: assets/img/enclosure.png
-    alt: "placeholder image 1"
+    alt: "enclosure"
   - url: assets/img/lid.png
     image_path: assets/img/lid.png
     alt: "lid"
@@ -17,6 +17,15 @@ gallery:
   - url: /assets/img/carriage.png
     image_path: /assets/img/carriage.png
     alt: "carriage"
+
+  - url: /assets/img/end support.png
+    image_path: /assets/img/end support.png
+    alt: "end support"
+
+  - url: /assets/img/syringesupport.png
+    image_path: /assets/img/syringesupport.png
+    alt: "syringe support"
+
 
 ---
 
