@@ -13,9 +13,9 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Olivia Omas"
 title_separator          : "-"
-subtitle                 : "Example Website for Class"
+subtitle                 : "Digital Fabrication Website"
 name                     : &name "Olivia Omas" # &name is a YAML anchor which can be *referenced later
-description              : &description "Example website for class "
+description              : &description "Digital Fabrication Website "
 url                      : https://RatKing-123.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -98,15 +98,13 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "assets/img/IMG_5526.jpeg"
-  bio              : "An engineer with a passion for teaching "
+  bio              : "Senior at Vanderbilt University "
   location         : "Nashville, TN"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/DrD-Flo"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dr.dflo"
+      url: "https://github.com/RatKing-123"
+
 
 
 # Site Footer
@@ -114,10 +112,8 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/DrD-Flo"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dr.dflo"
+      url: "https://github.com/RatKing-123"
+
 
 
 # Reading Files
