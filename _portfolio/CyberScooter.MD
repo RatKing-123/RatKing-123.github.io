@@ -11,9 +11,13 @@ gallery:
   - url: assets/img/lid.png
     image_path: assets/img/lid.png
     alt: "lid"
-  - url: /assets/img/Syringe Pump Thumbnail.png
-    image_path: /assets/img/Syringe Pump Thumbnail.png
-    alt: "placeholder image 3"
+  - url: /assets/img/motormountingplate.jpg.png
+    image_path: /assets/img/motormountingplate.jpg.png
+    alt: "motor mounting plate"
+  - url: /assets/img/carriage.png
+    image_path: /assets/img/carriage.png
+    alt: "carriage"
+
 ---
 
  This syringe‬‭ pump‬‭ is powered‬‭ by‬‭ a‬‭ motor‬ coupled‬‭ to‬‭ a‬‭ lead‬‭ screw.‬‭ Key‬‭ design‬‭ considerations‬‭ include‬‭ adaptability‬‭ to‬‭ varying‬‭ syringe‬
@@ -24,7 +28,7 @@ gallery:
 # CAD Model
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4e35ce33e8ec6886a?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-{% include gallery caption="Dimensioned Drawings for Custom 3D Printed ." %}
+{% include gallery caption="Dimensioned Drawings for Custom 3D Printed Parts." %}
 
 # Instructions for Operation
 
