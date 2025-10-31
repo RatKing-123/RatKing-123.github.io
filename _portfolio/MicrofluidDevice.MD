@@ -44,9 +44,7 @@ To balance the flow, I increased the path lengths (increasing resistance) for th
 If I were to iterate on this design, I would build a device to hold and support the flexible tubing to minimize differences in flow due to the changing positions of those tubes.
 
 # CAD Model
-
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4e35ce33e8ec6886a?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-{% include gallery caption="Dimensioned Drawings for Custom 3D Printed Parts." %}
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b6028115d5d1c4bc6219274?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Instructions for Operation
 
