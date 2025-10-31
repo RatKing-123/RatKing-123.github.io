@@ -1,6 +1,6 @@
 ---
 title: "Microfluidic Device"
-excerpt: "This syringe pump can dispense fluid at rates between 0.1 and 10.7‬‭ mL/min"
+excerpt: "This microfluidic device can sort particles by size."
 header:
   image: /assets/img/Syringe Pump Thumbnail.png
   teaser: /assets/img/Syringe Pump Thumbnail.png
