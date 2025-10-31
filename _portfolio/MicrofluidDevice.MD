@@ -31,7 +31,8 @@ gallery:
 ### Pinched Flow Fractionation (PFF)
 Pinched flow fractionation (PFF) is a microfluidic separation technique that separates particles based on size. 
 Two inlets, one with suspended particles and one with a buffer solution, enter a narrow pinched section. As they flow into the broad section, particles maintain their streamlined positions and small particles flow closer to the wall while large particles flow closer to the middle of the broad section. Outlets can then be strategically placed to collect the different sized particles.
-</assets/img/PFF.png>
+
+/assets/img/PFF.png
 [Source: Pinched Flow Fractionation](https://pubs.acs.org/doi/10.1021/ac049863r)
 
 A valuable application for PFF is sorting blood cells and platelets. Centrifugation or filtration can subject cells to mechanical stress and pressure differences that can damage delicate cells like platelets, but PFF uses smooth laminar flow, preserving cell viability. [Source: A comprehensive review of pinch flow fractionation in microfluidics](https://www.sciencedirect.com/science/article/pii/S0255270124004252)
