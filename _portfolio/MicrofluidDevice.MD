@@ -2,8 +2,8 @@
 title: "Microfluidic Device"
 excerpt: "This microfluidic device can sort particles by size."
 header:
-  image: /assets/img/Syringe Pump Thumbnail.png
-  teaser: /assets/img/Syringe Pump Thumbnail.png
+  image: /assets/img/ufluidDevice.jpg
+  teaser: /assets/img/ufluidDevice.jpg
 gallery:
   - url: /assets/img/enclosure.png
     image_path: assets/img/enclosure.png
@@ -29,10 +29,19 @@ gallery:
 
 ---
 
- This syringe‬‭ pump‬‭ is powered‬‭ by‬‭ a‬‭ motor‬ coupled‬‭ to‬‭ a‬‭ lead‬‭ screw.‬‭ Key‬‭ design‬‭ considerations‬‭ include‬‭ adaptability‬‭ to‬‭ varying‬‭ syringe‬
-‭ diameters‬‭ and‬‭ adjustable‬‭ flow‬‭ rates.‬‭ Additionally,‬‭ the‬‭ syringe‬‭ pump‬‭ incorporates‬‭ status‬‭ lights‬‭ for‬
-‭ operational‬‭ feedback,‬‭ a‬‭ latching‬‭ button‬‭ for‬‭ control,‬‭ and‬‭ a‬‭ limit‬‭ switch‬‭ to‬‭ halt‬‭ motion‬‭ when‬‭ the‬
-‭ plunger reaches its limit.
+# Design
+
+For my design, I chose a symmetric approach. I placed my outlets at heights (y) based on the equation, 
+
+$$
+  \y=(pinched width - \frac{particle size}{2}\x\frac{Broad width}{Pinched width}
+$$
+where the width of the broad section was 44 mm, the pinched section was 1 mm, the large particles ranged from 425 to 500 µm, and the small particles ranged from 125 to 150 µm. The small channel height is at y = 41.03 and the large channel height y = 33.80 mm. The buffer channel was placed slightly above the midpoint of the large channel and the edge of the chip at y = 14.9 mm. All three channels were 0.75 mm wide.
+I added a barrier to separate particles before they get to the outlets and prevent backflow at y = 37.65, halfway between the height for the minimum large particle size and the maximum small particle size, and another, halfway between the large particle and buffer channels at y = 23.4 mm.
+
+To balance the flow, I increased the path lengths (increasing resistance) for the three outlets proportionally to how much fluid each should carry. I found that the small particle channel should take 14.4% of the fluid, the large particle channel should take 32.4%, and the buffer channel should take the remaining 53.2%. I scaled up this ratio as much as possible while following design constraints to maximize resistance differences on the chip. The path lengths were 110.1 mm for the small particles, 49.0 mm for the large particles, and 29.9 mm for the buffer channel. I used curved paths to mitigate bubble accumulation and add whimsy. 
+
+If I were to iterate on this design, I would build a device to hold and support the flexible tubing to minimize differences in flow due to the changing positions of those tubes.
 
 # CAD Model
 
@@ -59,32 +68,3 @@ gallery:
 
 9.‬‭ Use the backward button to reset the pump to the desired position.‬
 
-# Custom 3D Printed Parts
-
-| **Item**             |
-|----------------------|
-| Motor Mounting Plate |
-| Carriage             |
-| Enclosure            |
-| Lid for enclosure    |
-| End support          |
-| Syringe support      |
-
-# Off the Shelf Parts
-
-| **Item**                              | **Quantity** |
-|---------------------------------------|--------------|
-| M5x8mm bolt                           | 6            |
-| M3x6mm bolt                           | 14           |
-| M5 Tee nut                            | 4            |
-| 10mm LED                              | 1            |
-| V-slot 20x40x350mm aluminum extrusion | 1            |
-| 10mm button switch                    | 3            |
-| 8mmx200mm linear rod                  | 1            |
-| 8mm lock collar                       | 2            |
-| TR8 8x250mm lead screw                | 1            |
-| limit switch                          | 1            |
-| NEMA 17 Stepper Motor                 | 1            |
-| 8mm flexible coupler                  | 1            |
-| Arduino                               | 1            |
-| TR8x8mm nut                           | 1            |
