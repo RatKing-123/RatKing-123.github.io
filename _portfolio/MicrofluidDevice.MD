@@ -31,6 +31,8 @@ gallery:
 ### Pinched Flow Fractionation (PFF)
 Pinched flow fractionation (PFF) is a microfluidic separation technique that separates particles based on size. 
 Two inlets, one with suspended particles and one with a buffer solution, enter a narrow pinched section. As they flow into the broad section, particles maintain their streamlined positions and small particles flow closer to the wall while large particles flow closer to the middle of the broad section. Outlets can then be strategically placed to collect the different sized particles.
+</assets/img/PFF.png>
+[Source: Pinched Flow Fractionation](https://pubs.acs.org/doi/10.1021/ac049863r)
 
 A valuable application for PFF is sorting blood cells and platelets. Centrifugation or filtration can subject cells to mechanical stress and pressure differences that can damage delicate cells like platelets, but PFF uses smooth laminar flow, preserving cell viability. [Source: A comprehensive review of pinch flow fractionation in microfluidics](https://www.sciencedirect.com/science/article/pii/S0255270124004252)
 
@@ -38,7 +40,7 @@ A valuable application for PFF is sorting blood cells and platelets. Centrifugat
 
 # Design
 
-For my design, I chose a symmetric approach. I placed my outlets at heights (y) based on the equation, $y=(/pinched/ /width/ - \frac{particle size}{2}\x\frac{Broad width}{Pinched width}$ where the width of the broad section was 44 mm, the pinched section was 1 mm, the large particles ranged from 425 to 500 µm, and the small particles ranged from 125 to 150 µm. The small channel height is at y = 41.03 and the large channel height y = 33.80 mm. The buffer channel was placed slightly above the midpoint of the large channel and the edge of the chip at y = 14.9 mm. All three channels were 0.75 mm wide.
+For my design, I chose a symmetric approach. I placed my outlets at heights (y) based on the equation, $y=(Pinched Width - \frac{particle size}{2}\x\frac{Broad width}{Pinched width}$ where the width of the broad section was 44 mm, the pinched section was 1 mm, the large particles ranged from 425 to 500 µm, and the small particles ranged from 125 to 150 µm. The small channel height is at y = 41.03 and the large channel height y = 33.80 mm. The buffer channel was placed slightly above the midpoint of the large channel and the edge of the chip at y = 14.9 mm. All three channels were 0.75 mm wide.
 I added a barrier to separate particles before they get to the outlets and prevent backflow at y = 37.65, halfway between the height for the minimum large particle size and the maximum small particle size, and another, halfway between the large particle and buffer channels at y = 23.4 mm.
 
 To balance the flow, I increased the path lengths (increasing resistance) for the three outlets proportionally to how much fluid each should carry. I found that the small particle channel should take 14.4% of the fluid, the large particle channel should take 32.4%, and the buffer channel should take the remaining 53.2%. I scaled up this ratio as much as possible while following design constraints to maximize resistance differences on the chip. The path lengths were 110.1 mm for the small particles, 49.0 mm for the large particles, and 29.9 mm for the buffer channel. I used curved paths to mitigate bubble accumulation and add whimsy. 
