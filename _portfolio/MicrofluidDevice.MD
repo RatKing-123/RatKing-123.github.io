@@ -33,9 +33,9 @@ Pinched flow fractionation (PFF) is a microfluidic separation technique that sep
 Two inlets, one with suspended particles and one with a buffer solution, enter a narrow pinched section. As they flow into the broad section, particles maintain their streamlined positions and small particles flow closer to the wall while large particles flow closer to the middle of the broad section. Outlets can then be strategically placed to collect the different sized particles.
 
 ![PFF Diagram](/assets/img/PFF.png)
-[Source: Pinched Flow Fractionation](https://pubs.acs.org/doi/10.1021/ac049863r)
+[*Source: Pinched Flow Fractionation*](https://pubs.acs.org/doi/10.1021/ac049863r)
 
-A valuable application for PFF is sorting blood cells and platelets. Centrifugation or filtration can subject cells to mechanical stress and pressure differences that can damage delicate cells like platelets, but PFF uses smooth laminar flow, preserving cell viability. [Source: A comprehensive review of pinch flow fractionation in microfluidics](https://www.sciencedirect.com/science/article/pii/S0255270124004252)
+A valuable application for PFF is sorting blood cells and platelets. Centrifugation or filtration can subject cells to mechanical stress and pressure differences that can damage delicate cells like platelets, but PFF uses smooth laminar flow, preserving cell viability. [*Source: A comprehensive review of pinch flow fractionation in microfluidics*](https://www.sciencedirect.com/science/article/pii/S0255270124004252)
 
 
 
@@ -57,6 +57,6 @@ If I were to iterate on this design, I would build a device to hold and support 
 2. Post processing: Wash with isopropyl alcohol to remove all uncured resin and post-cure with UV for structural integrity.
 3. Coat the mold in a thin layer of parylene to prevent resin leaching into the PDMS and interfering with cross-linking.
 4. Cast the device in PDMS (polydimethylsiloxane) using the mold. After setting, carefully demold the device.
-[mold and PDMS device side by side]
+![mold and PDMS device side by side](assets/img/moldAndPDMS.png)
 5. Plasma bond the PDMS device to a glass slide. This makes it so the channels are watertight (pictured below)
-[plasma bonding process]
+![plasma bonding process](assets/img/Plasma-Treating-Image.jpg)
