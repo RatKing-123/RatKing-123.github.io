@@ -37,7 +37,11 @@ Two inlets, one with suspended particles and one with a buffer solution, enter a
 
 A valuable application for PFF is sorting blood cells and platelets. Centrifugation or filtration can subject cells to mechanical stress and pressure differences that can damage delicate cells like platelets, but PFF uses smooth laminar flow, preserving cell viability. [*Source: A comprehensive review of pinch flow fractionation in microfluidics*](https://www.sciencedirect.com/science/article/pii/S0255270124004252)
 
-
+<script type="text/javascript"
+  id="MathJax-script"
+  async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
 
 # Design
 
@@ -50,6 +54,8 @@ If I were to iterate on this design, I would build a device to hold and support 
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b6028115d5d1c4bc6219274?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+
 
 # To Create the Device:
 
