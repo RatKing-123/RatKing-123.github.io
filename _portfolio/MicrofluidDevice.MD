@@ -41,7 +41,7 @@ A valuable application for PFF is sorting blood cells and platelets. Centrifugat
 
 # Design
 
-For my design, I chose a symmetric approach. I placed my outlets at heights (y) based on the equation, $y=(Pinched Width - \frac{particle size}{2}\x\frac{Broad width}{Pinched width}$ where the width of the broad section was 44 mm, the pinched section was 1 mm, the large particles ranged from 425 to 500 µm, and the small particles ranged from 125 to 150 µm. The small channel height is at y = 41.03 and the large channel height y = 33.80 mm. The buffer channel was placed slightly above the midpoint of the large channel and the edge of the chip at y = 14.9 mm. All three channels were 0.75 mm wide.
+For my design, I chose a symmetric approach. I placed my outlets at heights (y) based on the equation, $Y_0 = \left( w_p - \frac{D}{2} \right) \frac{w_b}{w_p}$. where the width of the broad section was 44 mm, the pinched section was 1 mm, the large particles ranged from 425 to 500 µm, and the small particles ranged from 125 to 150 µm. The small channel height is at y = 41.03 and the large channel height y = 33.80 mm. The buffer channel was placed slightly above the midpoint of the large channel and the edge of the chip at y = 14.9 mm. All three channels were 0.75 mm wide.
 I added a barrier to separate particles before they get to the outlets and prevent backflow at y = 37.65, halfway between the height for the minimum large particle size and the maximum small particle size, and another, halfway between the large particle and buffer channels at y = 23.4 mm.
 
 To balance the flow, I increased the path lengths (increasing resistance) for the three outlets proportionally to how much fluid each should carry. I found that the small particle channel should take 14.4% of the fluid, the large particle channel should take 32.4%, and the buffer channel should take the remaining 53.2%. I scaled up this ratio as much as possible while following design constraints to maximize resistance differences on the chip. The path lengths were 110.1 mm for the small particles, 49.0 mm for the large particles, and 29.9 mm for the buffer channel. I used curved paths to mitigate bubble accumulation and add whimsy. 
@@ -57,6 +57,6 @@ If I were to iterate on this design, I would build a device to hold and support 
 2. Post processing: Wash with isopropyl alcohol to remove all uncured resin and post-cure with UV for structural integrity.
 3. Coat the mold in a thin layer of parylene to prevent resin leaching into the PDMS and interfering with cross-linking.
 4. Cast the device in PDMS (polydimethylsiloxane) using the mold. After setting, carefully demold the device.
-![mold and PDMS device side by side](assets/img/moldAndPDMS.png)
+![mold and PDMS device side by side](/assets/img/moldAndPDMS.png)
 5. Plasma bond the PDMS device to a glass slide. This makes it so the channels are watertight (pictured below)
-![plasma bonding process](assets/img/Plasma-Treating-Image.jpg)
+![plasma bonding process](/assets/img/Plasma-Treating-Image.jpg)
