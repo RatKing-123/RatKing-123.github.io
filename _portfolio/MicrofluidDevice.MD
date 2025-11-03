@@ -61,6 +61,7 @@ To balance the flow, I increased the path lengths (increasing resistance) for th
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b6028115d5d1c4bc6219274?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
+
 # To Create the Device:
 
 1. Resin print a mold for the device.
@@ -72,8 +73,23 @@ To balance the flow, I increased the path lengths (increasing resistance) for th
 ![plasma bonding process](/assets/img/Plasma-Treating-Image.jpg)
 
 
+
+
 # Discussion
+
+Resin printing offers smooth, optically clear channels, high resolution, and complex 3D geometries, making it particularly advantageous for microfluidic devices with carefully defined pinch and expansion zones– features that demand tight dimensional precision and smooth surfaces.
+
+#### Scaling up:
+To handle a wider range of particle sizes, my design could be scaled up and use multiple stages of pinched and broad sections. I would first separate out the largest particles then narrow down to a finer scale to separate out the smallest particles. It would be similar to multi-stage sieving, but happen all on one chip. When separating the smallest particles, the broad section could be widened to increase the distance between the particle streams, allowing for separation even at a very fine scale. 
+
+#### Particle Size Limits:
+PFF separates particles based on how their size causes them to occupy different streamlines in a pinched microchannel. For separation to work, the particle diameter must be large enough that its centerline position shifts measurably relative to smaller particles as it passes through the pinched region and also be large compared to fabrication roughness or surface irregularities. If particles are too small, they follow nearly the same streamline as the fluid, experience [Brownian motion](https://en.wikipedia.org/wiki/Brownian_motion), and are dominated by diffusion rather than geometry-driven displacement.
 
 During the testing process (setup pictured below) the device did not succsessfully sort particles due to issues with the density of the suspension and back pressure from slight movements of the flexible tubes. If I were to iterate on this design, I would build a device to hold and support the flexible tubing to minimize variability in resistance due to the changing positions of those tubes.
 ![testing setup](/assets/img/testingsetup.png)
+
+
+
+
+
 
