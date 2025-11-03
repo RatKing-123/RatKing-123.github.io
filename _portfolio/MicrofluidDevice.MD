@@ -77,7 +77,12 @@ To balance the flow, I increased the path lengths (increasing resistance) for th
 
 # Discussion
 
-Resin printing offers smooth, optically clear channels, high resolution, and complex 3D geometries, making it particularly advantageous for microfluidic devices with carefully defined pinch and expansion zones– features that demand tight dimensional precision and smooth surfaces.
+Resin printing offers smooth, optically clear channels, high resolution, and complex 3D geometries, making it particularly advantageous for microfluidic devices with carefully defined pinched and broad zones– features that demand tight dimensional precision and smooth surfaces.
+
+#### Real-World Application!
+Given the particle size range my device is equiped to handle, a real-world application for it would be separating fine (125–150 µm) and coarse (425–500 µm) sand grains for sediment monitoring in a river or stream. Understanding the grain-size distribution of sediments in rivers and streams is important for sediment transport modeling, pollutant tracking, and habitat mapping, which are all indicators of overall stream health. 
+Traditionally, these data come from manual sieving or laser diffraction, both of which require batch sampling and lab analysis. PFF could offer a way to make this process field-deployable, saving time and money.
+
 
 #### Scaling up:
 To handle a wider range of particle sizes, my design could be scaled up and use multiple stages of pinched and broad sections. I would first separate out the largest particles then narrow down to a finer scale to separate out the smallest particles. It would be similar to multi-stage sieving, but happen all on one chip. When separating the smallest particles, the broad section could be widened to increase the distance between the particle streams, allowing for separation even at a very fine scale. 
