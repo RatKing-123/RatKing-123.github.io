@@ -51,23 +51,12 @@ If I were to iterate on this design, I would build a device to hold and support 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b6028115d5d1c4bc6219274?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# Instructions for Operation
+# To Create the Device:
 
-‭1.‬‭ Copy this [Arduino code](https://github.com/RatKing-123/RatKing-123.github.io/blob/main/Ardiuno%20Code%20for%20Syringe%20Pump?h=1) into an Arduino sketch.‬
-
-2.‬‭ Change the “volumetric_flow_rate” variable to the desired flow rate (in mL/min).‬
-
-‭3.‬‭ Change the “total_volume” variable to the starting volume present in the syringe.‬
-
-‭4.‬‭ Plug in the Arduino to the computer and upload the sketch.‬
-
-5.‬‭ Unplug the Arduino from the computer and plug in the power chord from the pump.‬ The time to dispense should show on the LCD, and the LED should be yellow.‬
-
-6.‬‭ Press the forward and backward buttons to adjust the plunger position if necessary.‬
-
-‭7.‬‭ Press the start button to begin dispensing.‬
-
-‭8.‬‭ Once‬‭ dispensing‬‭ is‬‭ complete‬‭ (LED‬‭ is‬‭ red),‬‭ press‬‭ the‬‭ start‬‭ button‬‭ again‬‭ to‬‭ move‬‭ back‬‭ into‬‭ manual control mode.‬
-
-9.‬‭ Use the backward button to reset the pump to the desired position.‬
-
+1. Resin print a mold for the device.
+2. Post processing: Wash with isopropyl alcohol to remove all uncured resin and post-cure with UV for structural integrity.
+3. Coat the mold in a thin layer of parylene to prevent resin leaching into the PDMS and interfering with cross-linking.
+4. Cast the device in PDMS (polydimethylsiloxane) using the mold. After setting, carefully demold the device.
+[mold and PDMS device side by side]
+5. Plasma bond the PDMS device to a glass slide. This makes it so the channels are watertight (pictured below)
+[plasma bonding process]
