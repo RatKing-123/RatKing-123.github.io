@@ -46,8 +46,9 @@ A valuable application for PFF is sorting blood cells and platelets. Centrifugat
 # Design
 
 For my design, I chose a symmetric approach. I placed my outlets at heights (y) based on the equation,
-![Equation](https://latex.codecogs.com/svg.latex?Y_0=\left(pinched_width_-\frac{D}{2}\right)\frac{width_broad}{width_pinched})
-where the width of the broad section was 44 mm, the pinched section was 1 mm, the large particles ranged from 425 to 500 µm, and the small particles ranged from 125 to 150 µm. The small channel height is at y = 41.03 and the large channel height y = 33.80 mm. The buffer channel was placed slightly above the midpoint of the large channel and the edge of the chip at y = 14.9 mm. All three channels were 0.75 mm wide.
+![Equation](https://latex.codecogs.com/svg.latex?Y_0=\left(w_p-\frac{D}{2}\right)\frac{w_b}{w_p})
+where w~p~ = width of the pinched section, w~b~ = width of the broad section, D = particle diameter. 
+The width of the broad section was 44 mm, the pinched section was 1 mm, the large particles ranged from 425 to 500 µm, and the small particles ranged from 125 to 150 µm. The small channel height is at y = 41.03 and the large channel height y = 33.80 mm. The buffer channel was placed slightly above the midpoint of the large channel and the edge of the chip at y = 14.9 mm. All three channels were 0.75 mm wide.
 I added a barrier to separate particles before they get to the outlets and prevent backflow at y = 37.65, halfway between the height for the minimum large particle size and the maximum small particle size, and another, halfway between the large particle and buffer channels at y = 23.4 mm.
 
 To balance the flow, I increased the path lengths (increasing resistance) for the three outlets proportionally to how much fluid each should carry. I found that the small particle channel should take 14.4% of the fluid, the large particle channel should take 32.4%, and the buffer channel should take the remaining 53.2%. I scaled up this ratio as much as possible while following design constraints to maximize resistance differences on the chip. The path lengths were 110.1 mm for the small particles, 49.0 mm for the large particles, and 29.9 mm for the buffer channel. I used curved paths to mitigate bubble accumulation and add whimsy. 
