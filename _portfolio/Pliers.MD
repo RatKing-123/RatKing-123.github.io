@@ -3,8 +3,8 @@
 title: "Multimaterial Pliers"
 excerpt: "These 3D printed pliers use rigid and flexible components."
 header:
-  image: /assets/img/Syringe Pump Thumbnail.png
-  teaser: /assets/img/Syringe Pump Thumbnail.png
+  image: /assets/img/pliersFusion.png
+  teaser: /assets/img/pliersFusion.png
 gallery:
   - url: /assets/img/enclosure.png
     image_path: assets/img/enclosure.png
