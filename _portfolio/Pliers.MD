@@ -29,9 +29,9 @@ gallery:
 
 
 ---
-# Print-in-Place Pliers
+### Print-in-Place Pliers
 
-# About the Design
+### About the Design
 For my assignment, the objective was to filament print pliers capable of gripping and picking up through-hole resistors. 
 The requirements are that the pliers return to the open position when not in use, and they have to be assembled 
 by hand using no tools.
@@ -41,12 +41,12 @@ For the handles and jaws, I used PLA filament. For the flexible centerpiece I us
 wide lines. I found this to be the perfect balance of flexibility and durability for the spring component of the pliers. 
 It’s connected to the rigid handles and jaws with an interlocking pattern that fits together tightly (shown below). 
 
-# Specifications
+### Specifications
 The jaws are 60 mm long and have a capacity of mm, meaning they can open up to mm wide. 
 
 
-# CAD Model
+### CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b6028113a1bb0309612c4f6?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 {% include gallery caption="Dimensioned Drawings for Custom 3D Printed Parts." %}
 
-# Print Settings
+### Print Settings
