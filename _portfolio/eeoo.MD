@@ -40,7 +40,7 @@ For the handles and jaws, I used PLA filament. For the flexible centerpiece I us
 wide lines. I found this to be the perfect balance of flexibility and durability for the spring component of the pliers. 
 It’s connected to the rigid handles and jaws with an interlocking pattern that fits together tightly (shown below). 
 
-![Interlocking pattern] (/assets/img/puzzle.png)
+![Interlocking pattern](/assets/img/puzzle.png)
 
 ### Specifications
 The jaws are 60 mm long and have a capacity of mm, meaning they can open up to mm wide. 
