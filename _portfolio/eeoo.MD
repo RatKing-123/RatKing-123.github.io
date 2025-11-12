@@ -45,7 +45,6 @@ For print-in-place designs, materials need the right balance of strength and fle
 
 - Flexible parts: TPU (95A) or flexible PETG for spring or hinge sections
 
-Combining these (rigid + flexible) in dual-material prints can produce parts that move smoothly without cracking or fusing together.
 
 ### About the Design
 For my assignment, the objective was to filament print pliers capable of gripping and picking up through-hole resistors. 
