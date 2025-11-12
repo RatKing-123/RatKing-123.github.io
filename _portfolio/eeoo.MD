@@ -30,6 +30,7 @@ gallery:
 ---
 ### Print-in-Place Pliers
 
+![pliers gif](/assets/img/PliersGIF (1).gif)
 ### About the Design
 For my assignment, the objective was to filament print pliers capable of gripping and picking up through-hole resistors. 
 The requirements are that the pliers return to the open position when not in use, and they have to be assembled 
