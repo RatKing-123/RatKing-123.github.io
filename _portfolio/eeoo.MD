@@ -5,12 +5,12 @@ header:
   image: /assets/img/pliersFusion.png
   teaser: /assets/img/pliersFusion.png
 gallery:
-  - url: /assets/img/enclosure.png
-    image_path: assets/img/enclosure.png
-    alt: "enclosure"
-  - url: assets/img/lid.png
-    image_path: assets/img/lid.png
-    alt: "lid"
+  - url: /assets/img/before1.png
+    image_path: assets/img/before1.png
+    alt: "before"
+  - url: assets/img/after1.png
+    image_path: assets/img/after1.png
+    alt: "after"
   - url: /assets/img/motormountingplate.jpg.png
     image_path: /assets/img/motormountingplate.jpg.png
     alt: "motor mounting plate"
