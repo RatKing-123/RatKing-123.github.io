@@ -34,6 +34,6 @@ The jaws are 60 mm long and have a capacity of mm, meaning they can open up to m
 
 ### CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b6028113a1bb0309612c4f6?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-{% include gallery caption="Iterations: Before and after adjusting closure angle for a better contact betweenn jaws." %}
+{% include gallery caption="Iterations: Before and after adjusting closure angle for a better contact between jaws." %}
 
 ### Print Settings
