@@ -1,9 +1,9 @@
 ---
 title: "Bike Phone Mount"
-excerpt: "This syringe pump can dispense fluid at rates between 0.1 and 10.7‬‭ mL/min"
+excerpt: "Mount your phone to your bike - and rotate it!"
 header:
-  image: /assets/img/Syringe Pump Thumbnail.png
-  teaser: /assets/img/Syringe Pump Thumbnail.png
+  image: /assets/img/bikemountrender.png
+  teaser: /assets/img/bikemountrender.png
 gallery:
   - url: /assets/img/enclosure.png
     image_path: assets/img/enclosure.png
@@ -33,6 +33,10 @@ gallery:
 ‭ diameters‬‭ and‬‭ adjustable‬‭ flow‬‭ rates.‬‭ Additionally,‬‭ the‬‭ syringe‬‭ pump‬‭ incorporates‬‭ status‬‭ lights‬‭ for‬
 ‭ operational‬‭ feedback,‬‭ a‬‭ latching‬‭ button‬‭ for‬‭ control,‬‭ and‬‭ a‬‭ limit‬‭ switch‬‭ to‬‭ halt‬‭ motion‬‭ when‬‭ the‬
 ‭ plunger reaches its limit.
+
+
+![gif of rotation](/assets/img/littlephonemount.gif)
+
 
 # CAD Model
 
