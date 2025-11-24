@@ -37,6 +37,7 @@ Top-down modeling is an approach in design where you start with the overall conc
 # About the Design
 
 ![gif of rotation](/assets/img/bike phone mount.gif)
+
 A key requirement of this assignment was the phone mount’s ability to rotate and snap into horizontal and vertical positions. For this, I designed an inner circle and an outer circle that it could rotate smoothly inside. The inner piece has a cavity for a compressional spring and a ball bearing, and the outer circle has rounded encaves matching the radius of the ball bearing. I balanced the length and flexibilty of the spring, diameter of the ball bearing, and sizes of the cavities so that the model can rotate easily by hand, but clicks securely into each of the four orientations.
 It works awesomely – super smooth rotation between satisfying clicks for each orientation.
 
