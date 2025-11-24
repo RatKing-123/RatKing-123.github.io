@@ -42,46 +42,37 @@ In this cross-sectional view of the detent mechanism, you can see the 7 mm ball 
 For this project, I used FFF 3D printing on Voron printers with a 0.6 mm nozzle.
 For the phone holder part, I used TPU so I can easily pop my phone in and out of the phone mount. It fits snuggly so my phone will be secure even on a bumpy trail. For the clamp, I used ABS because I needed a rigid material with slight flexibility (strong, but not brittle) that could have heat-set inserts put in it and I used a TPU inlay for grip on the handlebars. I did the inside of the rotation mechanism in PLA because it needed to rotate smoothly and didn’t need to be flexible and my PLA prints usually have better print quality and are smoother than ABS parts I print.
 
-In the model, the flexible components are white, and the rigid parts are red. 
+To account for the expansion of the filiment and possible dimensional inaccuracy, I added 0.5 mm of clearance in between the inner and outer components of the rotation mechanism. This worked well and the pieces rotate smoothly without the inner part jiggling around. I also increased the diameter of the spring cavity by 0.2 mm to ensure that the spring could fit inside. 
+
+
+In the model below, the flexible components are white, and the rigid parts are red. 
 
 # CAD Model
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811b2d6ba3974e2de1a?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+### Custom 3D Printed Parts
 {% include gallery caption="Custom 3D Printed Components." %}
 
 
-To account for the expansion of the filiment and possible dimensional inaccuracy, I added 0.5 mm of clearance in between the inner and outer components of the rotation mechanism. This worked well and the pieces rotate smoothly without the inner part jiggling around. I also increased the diameter of the spring cavity by 0.2 mm to ensure that the spring could fit inside. 
 
 
 ## Assembly and Use
+
+
+| **Off the Shelf Parts**      | **Quantity** |
+|------------------------------|--------------|
+| M5x12mm bolt                 | 4            |
+| M3x5mm bolt                  | 2            |
+| M3 Heat-set insert           | 6            |
+| 8x10mm compressional spring  | 1            |
+| 7mm ball bearing             | 1            |
+
+
 To assemble the device, I used M3 x 5 mm bolts to attach the top part of the clamp to the inner part of the rotational mechanism, sandwiching the lip on the outer rotational component and holding all the pieces together. I slid the grippy TPU inlay into place on the clamp. The top and bottom parts of the clamp are connected by four M3 x 12 mm bolts which are tightened appropriately by the user to secure the mount onto the handlebars.
 
-# Custom 3D Printed Parts
 
-| **Item**             |
-|----------------------|
-| Motor Mounting Plate |
-| Carriage             |
-| Enclosure            |
-| Lid for enclosure    |
-| End support          |
-| Syringe support      |
 
-# Off the Shelf Parts
 
-| **Item**                              | **Quantity** |
-|---------------------------------------|--------------|
-| M5x8mm bolt                           | 6            |
-| M3x6mm bolt                           | 14           |
-| M5 Tee nut                            | 4            |
-| 10mm LED                              | 1            |
-| V-slot 20x40x350mm aluminum extrusion | 1            |
-| 10mm button switch                    | 3            |
-| 8mmx200mm linear rod                  | 1            |
-| 8mm lock collar                       | 2            |
-| TR8 8x250mm lead screw                | 1            |
-| limit switch                          | 1            |
-| NEMA 17 Stepper Motor                 | 1            |
-| 8mm flexible coupler                  | 1            |
-| Arduino                               | 1            |
-| TR8x8mm nut                           | 1            |
+
+
