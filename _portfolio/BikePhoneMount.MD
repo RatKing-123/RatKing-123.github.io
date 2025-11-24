@@ -5,26 +5,20 @@ header:
   image: /assets/img/bikemountrender.png
   teaser: /assets/img/bikemountrender.png
 gallery:
-  - url: /assets/img/enclosure.png
-    image_path: assets/img/enclosure.png
-    alt: "enclosure"
-  - url: assets/img/lid.png
-    image_path: assets/img/lid.png
-    alt: "lid"
-  - url: /assets/img/motormountingplate.jpg.png
-    image_path: /assets/img/motormountingplate.jpg.png
-    alt: "motor mounting plate"
-  - url: /assets/img/carriage.png
-    image_path: /assets/img/carriage.png
-    alt: "carriage"
+  - url: /assets/img/phoneholder.png
+    image_path: assets/img/phoneholder.png
+    alt: "phone holder"
+  - url: assets/img/inside.png
+    image_path: assets/img/inside.png
+    alt: "inside"
+  - url: /assets/img/clamptop.png
+    image_path: /assets/img/clamptop.png
+    alt: "top of clamp"
+  - url: /assets/img/clampbottom.png
+    image_path: /assets/img/clampbottom.png
+    alt: "bottom of clamp"
 
-  - url: /assets/img/end support.png
-    image_path: /assets/img/end support.png
-    alt: "end support"
 
-  - url: /assets/img/syringesupport.png
-    image_path: /assets/img/syringesupport.png
-    alt: "syringe support"
 
 
 ---
@@ -53,7 +47,7 @@ In the model, the flexible components are white, and the rigid parts are red.
 # CAD Model
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811b2d6ba3974e2de1a?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-{% include gallery caption="Dimensioned Drawings for Custom 3D Printed Parts." %}
+{% include gallery caption="Custom 3D Printed Components." %}
 
 
 To account for the expansion of the filiment and possible dimensional inaccuracy, I added 0.5 mm of clearance in between the inner and outer components of the rotation mechanism. This worked well and the pieces rotate smoothly without the inner part jiggling around. I also increased the diameter of the spring cavity by 0.2 mm to ensure that the spring could fit inside. 
