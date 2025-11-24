@@ -35,7 +35,7 @@ gallery:
 ‭ plunger reaches its limit.
 
 
-![gif of rotation](/assets/img/littlephonemount.gif)
+![gif of rotation](/assets/img/bike phone mount.gif)
 
 ![detent mechnism](/assets/img/detent.png)
 In this cross-sectional view of the detent mechanism, you can see the 7 mm ball bearing and 8x10 mm compressional spring that allow the phone to snap into vertical and horizontal orientations.
