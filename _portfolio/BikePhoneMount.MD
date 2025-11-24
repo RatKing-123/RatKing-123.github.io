@@ -52,7 +52,7 @@ In the model below, the flexible components are white, and the rigid parts are r
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811b2d6ba3974e2de1a?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ### Custom 3D Printed Parts
-{% include gallery caption="Custom 3D Printed Components." %}
+{% include gallery caption="Fusion 360 renderings of custom 3D Printed Components. " %}
 
 
 
