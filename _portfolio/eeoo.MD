@@ -3,7 +3,7 @@ title: "Multimaterial Pliers"
 excerpt: "These 3D printed pliers use rigid and flexible components."
 header:
   image: /assets/img/pliersrender.png
-  teaser: /assets/img/pliersFusion.png
+  teaser: /assets/img/pliersrender.png
 gallery:
   - url: /assets/img/before1.png
     image_path: assets/img/before1.png
@@ -17,7 +17,6 @@ gallery:
 
 
 
-## Project Overview
 For this project, I designed and printed a pair of pliers capable of gripping through-hole resistors. The challenge was to create a fully functional tool that either prints in one piece (“print-in-place”) or assembles easily without tools. The pliers use a flexible spring element made from TPU that returns the handles to the open position when released.
 
 ![pliers gif](/assets/img/PliersGIF (1).gif)
