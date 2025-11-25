@@ -45,7 +45,7 @@ To account for possible warping and dimensional inaccuracy, I added 0.5 mm of cl
 ![detent mechnism](/assets/img/detent.png)
 In this cross-sectional view of the detent mechanism, you can see the ball bearing and compressional spring that allow the phone to snap into vertical and horizontal orientations.
 
-For this project, I used FFF 3D printing on Voron printers with a 0.6 mm nozzle.
+For this project, I used FFF 3D printing on Voron 300 printers with a 0.6 mm nozzle.
 For the phone holder part, I used TPU so I can easily pop my phone in and out of the phone mount. It fits snuggly so my phone will be secure even on a bumpy trail. For the clamp, I used ABS because I needed a rigid material with slight flexibility (strong, but not brittle) that could have heat-set inserts put in it and I used a TPU inlay for grip on the handlebars. I did the inside of the rotation mechanism in PLA because it needed to rotate smoothly and didn’t need to be flexible and my PLA prints usually have better print quality and are smoother than ABS parts I print.
 
 
