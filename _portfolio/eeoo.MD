@@ -63,7 +63,9 @@ The jaws are 60 mm long and have a capacity of 10.5 mm, meaning they can open up
 {% include gallery caption="Before and after adjusting closure angle for a better contact between jaws." %}
 
 ### Print Settings
-For this print, I used a 0.6 mm nozzle. For the spring component in the center of the pliers, I used 95A TPU. For the rigid parts, the jaws and handles, I used PLA. I used a 25% infill density and layer height of 0.3 mm with 0.9 mm shells for the PLA parts, and 0.2 mm layer height with 0.64 mm shells for the TPU centerpiece. 
+For this print, I used the Voron 300 with a 0.6 mm nozzle. 
+For the spring component in the center of the pliers, I used 95A TPU. 
+For the rigid parts, the jaws and handles, I used PLA. I used a 25% infill density and layer height of 0.3 mm with 0.9 mm shells for the PLA parts, and 0.2 mm layer height with 0.64 mm shells for the TPU centerpiece. 
 
 
 ### View the Design!
