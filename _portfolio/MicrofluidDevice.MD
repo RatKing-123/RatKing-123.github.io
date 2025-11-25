@@ -3,7 +3,7 @@ title: "Microfluidic Device"
 excerpt: "This microfluidic device can sort particles by size."
 header:
   image: /assets/img/ufluidDevice.png
-  teaser: /assets/img/ufluidDevice.png
+  teaser: /assets/img/microfluidrender.png
 gallery:
   - url: /assets/img/enclosure.png
     image_path: assets/img/enclosure.png
