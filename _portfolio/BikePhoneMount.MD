@@ -25,6 +25,8 @@ gallery:
 
 I designed and filament 3D printed a rotating phone holder for a bike using top-down modeling. 
 
+![irl image](assets/img/phonemountirl.png)
+
 ### Top-Down Modeling
 
 Top-down modeling is an approach in design where you start with the overall concept or higher-level features of a product and then add individual components and refine them as needed. To leverage top-down modeling, I started with a model of the handlebars and a model of my phone positioned how I would want my phone to be angled on the handlebars. Then, I projected the dimensions of the phone and the handlebars into my sketches for my custom components, ensuring that they’d fit together and work seamlessly.
@@ -65,7 +67,7 @@ To assemble the device, I started by pushing the ball bearing and spring down in
 
 I used M3 x 5 mm bolts to attach the top part of the clamp to the inner part of the rotational mechanism, sandwiching the lip on the outer rotational component and holding all the pieces together. 
 
-I slid the grippy TPU inlay into place on the clamp. The top and bottom parts of the clamp are connected by four M3 x 12 mm bolts which are tightened appropriately by the user to secure the mount onto the handlebars. 
+The grippy TPU inlay slides into place on the clamp. The top and bottom parts of the clamp are connected by four M3 x 12 mm bolts which are tightened appropriately by the user to secure the mount onto the handlebars. 
 
 | **Off the Shelf Parts**      | **Quantity** |
 |------------------------------|--------------|
