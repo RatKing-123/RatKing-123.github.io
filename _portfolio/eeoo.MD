@@ -59,12 +59,14 @@ I modeled my design after the design in the 2017 [article by Bulent Yusef](https
 The jaws are 60 mm long and have a capacity of 10.5 mm, meaning they can open up to 10.5 mm wide. This is very practical for my objective of picking up through hole resistors.
 
 
-### CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b6028113a1bb0309612c4f6?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
 
 ### Iterations
 {% include gallery caption="Before and after adjusting closure angle for a better contact between jaws." %}
 
 ### Print Settings
 For this print, I used a 0.6 mm nozzle, so the layer height for the print is 1.2 mm. For the spring component in the center of the pliers, I used 95A TPU. For the rigid parts, the jaws and handles, I used PLA. I used a 25% infill density for all of the parts. 
+
+
+### View the Design!
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b6028113a1bb0309612c4f6?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
