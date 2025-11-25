@@ -25,7 +25,7 @@ gallery:
 
 I designed and filament 3D printed a rotating phone holder for a bike using top-down modeling. 
 
-![irl image](assets/img/phonemountirl.png)
+![irl image](assets/img/phonemountirl1.png)
 
 ### Top-Down Modeling
 
@@ -78,7 +78,7 @@ The grippy TPU inlay slides into place on the clamp. The top and bottom parts of
 | 7mm ball bearing             | 1            |
 
 
-![irl image](assets/img/phonemountirl.png)
+
 
 
 
