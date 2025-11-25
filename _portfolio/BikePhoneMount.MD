@@ -57,7 +57,7 @@ In the model below, the flexible components are white, and the rigid parts are r
 
 ### Custom 3D Printed Parts
 
-{% include gallery caption="Fusion 360 renderings of custom 3D printed components. " %}
+{% include gallery caption="Fusion 360 renderings of top-down components. " %}
 
 
 
@@ -67,7 +67,7 @@ To assemble the device, I started by pushing the ball bearing and spring down in
 
 I used M3 x 5 mm bolts to attach the top part of the clamp to the inner part of the rotational mechanism, sandwiching the lip on the outer rotational component and holding all the pieces together. 
 
-The grippy TPU inlay slides into place on the clamp. The top and bottom parts of the clamp are connected by four M3 x 12 mm bolts which are tightened appropriately by the user to secure the mount onto the handlebars. 
+The grippy TPU inlay slides into place on the clamp. The top and bottom parts of the clamp are connected by four M3 x 12 mm bolts which are tightened appropriately by the user to secure the mount onto the handlebars. Finally, I pop my phone into the flexible phone holder part, and it's ready to use.
 
 | **Off the Shelf Parts**      | **Quantity** |
 |------------------------------|--------------|
