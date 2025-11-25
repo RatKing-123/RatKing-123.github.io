@@ -25,7 +25,7 @@ gallery:
 
 I designed and filament 3D printed a rotating phone holder for a bike using top-down modeling. 
 
-![irl image](assets/img/phonemountirl1.png)
+![irl image](/assets/img/phonemountirl1.png)
 
 ### Top-Down Modeling
 
