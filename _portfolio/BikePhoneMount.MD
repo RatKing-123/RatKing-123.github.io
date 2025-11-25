@@ -2,7 +2,7 @@
 title: "Bike Phone Mount"
 excerpt: "Mount your phone to your bike - and rotate it!"
 header:
-  image: /assets/img/bikemountrender.png
+  image: /assets/img/phonemountirl1.png
   teaser: /assets/img/bikemountrender.png
 gallery:
   - url: /assets/img/phoneholder.png
