@@ -1,9 +1,9 @@
 ---
-title: "Generative Design Truck"
-excerpt: "Mount your phone to your bike - and rotate it!"
+title: "Generative Design Skateboard Truck"
+excerpt: "Lightweighted truck hanger with an integrated motor mount "
 header:
-  image: /assets/img/bikemountrender.png
-  teaser: /assets/img/bikemountrender.png
+  image: /assets/img/truckthumbnail.png
+  teaser: /assets/img/truckthumbnail.png
 gallery:
   - url: /assets/img/phoneholder.png
     image_path: assets/img/phoneholder.png
