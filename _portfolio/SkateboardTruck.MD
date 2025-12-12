@@ -49,12 +49,11 @@ Generative design only optimizes where you tell it to. It redistributes material
 
 
 For my skateboard truck, I knew I should consider: 
-- torque from the motor
-- weight of the motor
-- tension of the belt
-- weight of the rider
-- wheel hardness (95A)
-
+- Weight of the rider
+- Shear force experienced by the trucks (turning, tricks, etc.)
+- Motor torque
+- Motor weight
+- Belt tension
 
 First, I placed the fixed structural constraint where the bushings hold the center of the hangar, because it shouldn’t move. 
 
@@ -65,7 +64,7 @@ Then, I put a 150N force on each side (opposite directions) to simulate turning.
 
 For this assignment, we generated outcomes for two separate materials: Nylon 12 and ALSi10Mg.
 
-![side by side](/assets/img/sidebysidetrucks.png)
+![side by side](/assets/img/sidebysiderender.png)
 
 Since the Nylon has much less strength than the Aluminum, the generative design program determined that the Nylon outcome needed significantly more material.
 
@@ -75,4 +74,4 @@ Since the Nylon has much less strength than the Aluminum, the generative design 
 
 
 ![real life image of assembly](/assets/img/truckirl.png)
-![video of it working](/assets/img/truckvid1.mp4)
+![video of it working](/assets/img/truckvid2.mp4)
