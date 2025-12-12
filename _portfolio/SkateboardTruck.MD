@@ -2,8 +2,8 @@
 title: "Generative Design Skateboard Truck"
 excerpt: "Lightweighted truck hanger with an integrated motor mount "
 header:
-  image: /assets/img/truckthumbnail.png
-  teaser: /assets/img/truckthumbnail.png
+  image: /assets/img/truckrender.png
+  teaser: /assets/img/truckrender.png
 gallery:
   - url: /assets/img/phoneholder.png
     image_path: assets/img/phoneholder.png
@@ -75,4 +75,4 @@ Since the Nylon has much less strength than the Aluminum, the generative design 
 
 
 ![real life image of assembly](/assets/img/truckirl.png)
-![video of it working](/assets/img/truckirl.mp4)
+![video of it working](/assets/img/truckvid1.mp4)
