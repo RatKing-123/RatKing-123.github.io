@@ -73,3 +73,6 @@ Since the Nylon has much less strength than the Aluminum, the generative design 
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811ef257069bd9d289e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+
+![real life image of assembly](/assets/img/truckirl.png)
+![video of it working](/assets/img/truckirl.mp4)
