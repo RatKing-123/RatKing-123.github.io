@@ -49,11 +49,11 @@ Generative design only optimizes where you tell it to. It redistributes material
 
 
 For my skateboard truck, I knew I should consider: 
--torque from the motor
--weight of the motor
--tension of the belt
--weight of the rider
--wheel hardness (95A)
+- torque from the motor
+- weight of the motor
+- tension of the belt
+- weight of the rider
+- wheel hardness (95A)
 
 
 First, I placed the fixed structural constraint where the bushings hold the center of the hangar, because it shouldn’t move. 
