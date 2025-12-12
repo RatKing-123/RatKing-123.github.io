@@ -24,6 +24,7 @@ gallery:
 ---
 
 I created a topology optimized skateboard truck using generative design and powder printing. The objective was to to create a lightweight truck hanger with an integrated motor mount for a brushless DC motor.
+![real life image of assembly](/assets/img/truckirl.png)
 
 ## Generative Design & Powder Bed Fusion
 
@@ -80,9 +81,17 @@ The Aluminum outcome has a mass of 0.26 kg, and is so lightweight and sleek!
 ### Final Assembly
 The optimized aluminum outcome was powder printed and assembled. This step showed me how important it was to correctly assign obstacle geometries and clearances to ensure proper fit between parts.
 
-![real life image of assembly](/assets/img/truckirl.png)
 
 Here's a video of the full assembly working!
 ![video of it working](/assets/img/truck (1).gif)
 
 ### Final Thoughts on Generative Design
+
+I think generative design can be useful, but is easy to oversell. To be successful, generative design has to be partnered with strong engineering judgement rather than used as a replacement. 
+
+The success of generative design is completely dependent on how accurately forces are calculated and placed, so it’s still important to have an accurate understanding of conditions. Also, the generated designs should always be checked by a person for errors. 
+
+For this project, it took significantly longer to determine forces, assign preserved and obstacle geometries, and wait for Fusion360 to generate outcomes that it would’ve to just model my own truck. I did really enjoy getting to powder print the organic geometries created because the part came out looking so much nicer than a filament printed rendition would.
+
+Lightweighting this skateboard truck made a relatively small impact, but for other applications, the impact could be quite meaningful. In areas like aerospace engineering and robotics where the forces are known and every little bit of weight can make a difference, generative design could be very useful.
+
