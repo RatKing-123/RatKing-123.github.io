@@ -25,7 +25,7 @@ gallery:
 ---
 
 
-### Generative Design & Powder Bed Fusion
+## Generative Design & Powder Bed Fusion
 
 
 This pairing is complementary because:
@@ -34,7 +34,7 @@ This pairing is complementary because:
 
 This combo shines in aerospace and automotive when you want some mix of lightweighting, part consolidation, high performance per weight, and shorter iteration cycles.
 
-[Divergent BrakeNode](https://www.divergent3d.com/applications/automotive)
+### [Divergent BrakeNode](https://www.divergent3d.com/applications/automotive)
 This example features an integrated brake caliper and suspension upright, enabling improved braking performance and up to a 40% reduction in unsprung mass versus a conventional caliper & upright package. 
 
 ![Divergent BrakeNode](/assets/img/brakenode.png)
