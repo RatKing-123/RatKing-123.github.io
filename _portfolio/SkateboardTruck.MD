@@ -55,10 +55,11 @@ For my skateboard truck, I knew I should consider:
 - Motor weight
 - Belt tension
 
-First, I placed the fixed structural constraint where the bushings hold the center of the hangar, because it shouldn’t move. 
+First, I placed the fixed structural constraint to the kingpin through-hole in the center of the hanger, because it shouldn’t move. 
 
 Then, I put a 150N force on each side (opposite directions) to simulate turning. I used a 2lb downward force to simulate the weight of the motor. 19.2 N m moment to account for torque of the motor. 
 
+To improve this process, I could build multiple load cases to handle a set of more specific scenarios like carving at speed, braking hard, or dropping off a curb. Then my model would be able to survive all of them. Simulating all of these actions would require more complex calculations and accurate placement of forces than the ones I used, but it could be done to make a very high performance skateboard. Designs could also go through an iterative process where they are printed, tested, forces measured, and redesigned accordingly.  
 
 ## Nylon vs. Aluminum
 
@@ -68,10 +69,20 @@ For this assignment, we generated outcomes for two separate materials: Nylon 12 
 
 Since the Nylon has much less strength than the Aluminum, the generative design program determined that the Nylon outcome needed significantly more material.
 
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b60281189fed872550a8ee0?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811ef257069bd9d289e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+The Nylon 12 model above has a mass of 0.543 kg, and has a volume 5.5x greater than the ALSi10Mg model shown below.
+
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b60281189fed872550a8ee0?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+The Aluminum outcome has a mass of 0.26 kg, and is so lightweight and sleek!
+
+### Final Assembly
+The optimized aluminum outcome was powder printed and assembled. This step showed me how important it was to correctly assign obstacle geometries and clearances to ensure proper fit between parts.
 
 ![real life image of assembly](/assets/img/truckirl.png)
+
+Here's a video of the full assembly working!
 ![video of it working](/assets/img/truck (1).gif)
+
+### Final Thoughts on Generative Design
