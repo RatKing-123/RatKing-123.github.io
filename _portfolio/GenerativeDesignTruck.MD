@@ -24,13 +24,23 @@ gallery:
 
 ---
 
-I designed and filament 3D printed a rotating phone holder for a bike using top-down modeling. 
 
-![irl image](/assets/img/phonemountirl1.png)
+### Generative Design & Powder Bed Fusion
 
-### Top-Down Modeling
 
-Top-down modeling is an approach in design where you start with the overall concept or higher-level features of a product and then add individual components and refine them as needed. To leverage top-down modeling, I started with a model of the handlebars and a model of my phone positioned how I would want my phone to be angled on the handlebars. Then, I projected the dimensions of the phone and the handlebars into my sketches for my custom components, ensuring that they’d fit together and work seamlessly.
+This pairing is complementary because:
+- Generative design/topology optimization can propose highly efficient geometries (thin ribs, branching struts, lattices), minimizing mass while meeting stiffness/strength constraints.
+- Metal powder bed fusion is one of the few production-capable processes that can actually manufacture those complex internal/organic geometries without tooling, and with fine feature control—so the “weird” shapes that are optimal on a solver aren’t automatically disqualified by manufacturability.
+
+This combo shines in aerospace and automotive when you want some mix of lightweighting, part consolidation, high performance per weight, and shorter iteration cycles.
+
+[Divergent BrakeNode](https://www.divergent3d.com/applications/automotive)
+This example features an integrated brake caliper and suspension upright, enabling improved braking performance and up to a 40% reduction in unsprung mass versus a conventional caliper & upright package. 
+
+![Divergent BrakeNode](/assets/img/brakenode.png)
+*Image Source: [Divergent](https://www.divergent3d.com/applications/automotive)*
+
+Although the “final form” involves multiple printed nodes + tubes/rods, the design philosophy is still assembly simplification. With the BrakeNode, Divergent reduces tooling and consolidates structure/function into fewer, more optimized elements.
 
 
 
