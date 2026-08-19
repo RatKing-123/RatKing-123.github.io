@@ -15,7 +15,7 @@ title                    : "Olivia Omas"
 title_separator          : "-"
 subtitle                 : "Digital Fabrication Website and Portfolio"
 name                     : &name "Olivia Omas" # &name is a YAML anchor which can be *referenced later
-description              : &description "Digital Fabrication Website "
+description              : &description " "
 url                      : https://RatKing-123.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -98,8 +98,8 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "assets/img/IMG_5526.jpeg"
-  bio              : "Senior at Vanderbilt University "
-  location         : "Nashville, TN"
+  bio              : " "
+  location         : "Boise, ID"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
