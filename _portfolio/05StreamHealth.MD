@@ -1,6 +1,6 @@
 ---
 title: "Stream Health Research"
-excerpt: "Field research in Christchurch, New Zealand"
+excerpt: "Field research in Rāpaki, New Zealand"
 header:
   image: /assets/img/FA Poster.jpg
   teaser: /assets/img/research_poster.jpeg
@@ -9,7 +9,7 @@ header:
 
 
 ---
-# About the Project
+### About the Project
 
 My semester-long stream health research project in Rāpaki, New Zealand, examined freshwater ecosystem condition 
 using both Mātauranga Māori and Western scientific approaches. Working at three sites within the 
