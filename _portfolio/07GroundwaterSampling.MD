@@ -2,8 +2,11 @@
 title: "Glacial Till Research"
 excerpt: "Geochemical and Morphological Indicators of Glacial Till Age in Colorado’s Upper
 Arkansas River Valley"
-header: /assets/img/Fieldwork.jpeg
-teaser: /assets/img/Fieldwork.jpeg
+header:
+  image: /assets/img/Fieldwork.jpeg
+  teaser: /assets/img/Fieldwork.jpeg
+
+
 gallery:
   - url: /assets/img/phoneholder.png
     image_path: assets/img/phoneholder.png
