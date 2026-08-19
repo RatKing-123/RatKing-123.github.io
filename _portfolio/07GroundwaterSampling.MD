@@ -1,7 +1,6 @@
 ---
-title: "Glacial Till Research"
-excerpt: "Geochemical and Morphological Indicators of Glacial Till Age in Colorado’s Upper
-Arkansas River Valley"
+title: "Groundwater Sampling"
+excerpt: "Fieldwork with the Idaho Dept. of Water Resources"
 header:
   image: /assets/img/Fieldwork.jpeg
   teaser: /assets/img/Fieldwork.jpeg
