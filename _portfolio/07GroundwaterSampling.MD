@@ -27,6 +27,5 @@ As a Groundwater Technician with the Idaho Department of Water Resources, I gain
 
 Sampling Vlog
 
-<iframe src="https://www.tiktok.com/@oliviaomas/video/7400569749769391403?is_from_webapp=1&sender_device=pc&web_id=7568742314727261709" width="100%" height="600px"></iframe>
-
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@oliviaomas/video/7400569749769391403" data-video-id="7400569749769391403" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@oliviaomas" href="https://www.tiktok.com/@oliviaomas?refer=embed">@oliviaomas</a> For all my fans wondering what sampling a well looks like! <a title="idaho" target="_blank" href="https://www.tiktok.com/tag/idaho?refer=embed">#idaho</a> <a title="groundwater" target="_blank" href="https://www.tiktok.com/tag/groundwater?refer=embed">#groundwater</a> <a title="hydrology" target="_blank" href="https://www.tiktok.com/tag/hydrology?refer=embed">#hydrology</a> <a title="womeninstem" target="_blank" href="https://www.tiktok.com/tag/womeninstem?refer=embed">#womeninstem</a> @Juliette <a target="_blank" title="♬ Little Things x Gypsy Woman - trxmbolona" href="https://www.tiktok.com/music/Little-Things-x-Gypsy-Woman-7246300794318997506?refer=embed">♬ Little Things x Gypsy Woman - trxmbolona</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
