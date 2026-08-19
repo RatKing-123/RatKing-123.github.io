@@ -4,7 +4,7 @@ excerpt: "Geochemical and Morphological Indicators of Glacial Till Age in Colora
 Arkansas River Valley"
 header:
 
-  teaser: /assets/img/digging.png
+  teaser: /assets/img/DiggingCropped.png
 gallery:
   - url: /assets/img/phoneholder.png
     image_path: assets/img/phoneholder.png
