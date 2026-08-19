@@ -4,7 +4,7 @@ excerpt: "Geochemical and Morphological Indicators of Glacial Till Age in Colora
 Arkansas River Valley"
 header:
 
-  teaser: /assets/img/bikemountrender.png
+  teaser: /assets/img/digging.png
 gallery:
   - url: /assets/img/phoneholder.png
     image_path: assets/img/phoneholder.png
@@ -23,6 +23,8 @@ gallery:
 
 
 ---
+My glacial geology research project in Colorado’s Upper Arkansas River Valley investigated methods for identifying and relatively dating glacial till deposits from the Pinedale, Bull Lake, and Pre-Bull Lake glaciations. Working at sites near Twin Lakes, Mount Shavano, and Mount Princeton, I collected soil and cobble samples and measured moraine slopes to evaluate how physical and geochemical characteristics change with deposit age. In the laboratory, I conducted organic carbon analysis, grain-size analysis using a Malvern Mastersizer 3000, and XRF analysis of rubidium, strontium, zirconium, and barium. Our results showed that moraine slope measurements and certain XRF relationships were the most effective indicators of relative age, while other methods produced less consistent trends. Through this project, I gained experience in geologic field sampling, geomorphic measurements, laboratory analysis, data visualization, scientific interpretation, and collaborative research.
+
 This research was advised by Dr. Dan Morgan, my glacial geology professor.
 
 Read the paper!
